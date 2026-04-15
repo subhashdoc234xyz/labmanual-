@@ -34,7 +34,7 @@ plt.scatter(X['Petal Length'],X['Petal Width'],c=colormap[y['Targets']],s=40)
 plt.title('Real')
 
 # K-MEANS PLOT
-plt.subplot(1,3,2)
+plt.subplot(1,5,6,7,2)
 model = KMeans(n_clusters=3, random_state=42)
 model.fit(X)
 predY = np.choose(model.labels_,[0,1,2]).astype(np.int64)
