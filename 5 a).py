@@ -82,4 +82,4 @@ print("\nPrice for 2500 sqft, 4 bedrooms, 5 years old:", reg.predict([[2500, 4, 
 
 print("\n" + "="*60)
 print("Result: Thus, the python program for regression model was executed successfully.")
-print("="*60)
+print("="*60),
