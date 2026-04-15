@@ -156,4 +156,4 @@ print("0.568 is more than 0.5 which means person with 43 will buy the insurance"
 
 print("\n" + "="*60)
 print("Result: Thus, the python program for logistics regression model was executed successfully.")
-print("="*60),
+print("="*60);

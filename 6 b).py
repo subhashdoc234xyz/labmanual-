@@ -78,6 +78,5 @@ y_pred = clf.predict(X_test)
 
 print("Accuracy for random forest:", metrics.accuracy_score(y_test, y_pred))
 print(confusion_matrix(y_test, y_pred))
-print(classification_report(y_test, y_pred))
-
+print(classification_report(y_test, y_pred));
 print("\nThus, the python program for random forest tree was executed successfully.")
