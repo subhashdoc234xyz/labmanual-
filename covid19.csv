@@ -1,0 +1,161 @@
+patient_id,global_num,sex,birth_year,age,country,province,city,latitude,longitude,infection_case,infection_order,state,Label
+10000001,2,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000002,5,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000003,6,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000004,7,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000005,9,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000006,10,female,1964,50,Korea,Seoul,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000007,11,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000008,12,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000009,13,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000010,14,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000011,15,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000012,16,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000013,17,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000014,18,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000015,19,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000016,20,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000017,21,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000018,22,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000019,23,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000020,24,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000021,25,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000022,26,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000023,27,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000024,28,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000025,29,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000026,30,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000027,31,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000028,32,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000029,33,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000030,34,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000031,35,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000032,36,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000033,37,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000034,38,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000035,39,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000036,40,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000037,41,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000038,42,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000039,43,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000040,44,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000041,45,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000042,46,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000043,47,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000044,48,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000045,49,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000046,50,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000047,51,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000048,52,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000049,53,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000050,54,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000051,55,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000052,56,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000053,57,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000054,58,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000055,59,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000056,60,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000057,61,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000058,62,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000059,63,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000060,64,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000061,65,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000062,66,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000063,67,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000064,68,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000065,69,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000066,70,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000067,71,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000068,72,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000069,73,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000070,74,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000071,75,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000072,76,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000073,77,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000074,78,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000075,79,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000076,80,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000077,81,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000078,82,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000079,83,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000080,84,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000081,85,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000082,86,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000083,87,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000084,88,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000085,89,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000086,90,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000087,91,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000088,92,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000089,93,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000090,94,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000091,95,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000092,96,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000093,97,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000094,98,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000095,99,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000096,100,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000097,101,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000098,102,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000099,103,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000100,104,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000101,105,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000102,106,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000103,107,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000104,108,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000105,109,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000106,110,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000107,111,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000108,112,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000109,113,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000110,114,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000111,115,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000112,116,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000113,117,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000114,118,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000115,119,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000116,120,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000117,121,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000118,122,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000119,123,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000120,124,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000121,125,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000122,126,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000123,127,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000124,128,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000125,129,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000126,130,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000127,131,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000128,132,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000129,133,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000130,134,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000131,135,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000132,136,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000133,137,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000134,138,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000135,139,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000136,140,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000137,141,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000138,142,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000139,143,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000140,144,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000141,145,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000142,146,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000143,147,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000144,148,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000145,149,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000146,150,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000147,151,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000148,152,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000149,153,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000150,154,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000151,155,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000152,156,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000153,157,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000154,158,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000155,159,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
+10000156,160,male,1964,50,Korea,Korea,Gangseo-gu,37.460459,126.44068,overseas inflow,1,released,0
+10000157,161,male,1987,30,Korea,Seoul,Jungna-gu,37.478832,126.668558,contact with patient,2,released,0
+10000158,162,male,1964,50,Korea,Seoul,Gyeonggi-do,37.562143,126.801844,contact with patient,2,released,0
+10000159,163,male,1991,20,Korea,Seoul,Mapo-gu,37.554544,127.005627,overseas inflow,1,released,0
+10000160,164,female,1992,20,Korea,Seoul,Seongbuk-gu,37.460459,126.44068,contact with patient,2,released,0
